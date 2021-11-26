@@ -15,7 +15,6 @@ int main()
     int opcion;
 
     LinkedList* listPeliculas = ll_newLinkedList();
-    LinkedList* newList = ll_newLinkedList();
 
     do
     {
@@ -132,16 +131,11 @@ int main()
 
                 case 8: // Salir
 					 ll_deleteLinkedList(listPeliculas);
-					 ll_deleteLinkedList(newList);
-					 //ll_clear(newList1);
-					 //ll_deleteLinkedList(newList1);
 
                      break;
             }
     }
     while(opcion != 8);
-
-
 
 
     return 0;
