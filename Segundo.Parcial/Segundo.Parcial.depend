@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1637968872 source:c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"inputs.h"
+	"controller.h"
+
+1637962047 source:c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637923812 source:c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"peliculas.h"
+
+1637894248 c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\linkedlist.h
+
+1637969937 c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\peliculas.h
+
+1637968752 source:c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\controller.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"controller.h"
+	"LinkedList.h"
+	"inputs.h"
+	"parser.h"
+	"peliculas.h"
+
+1637970017 c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\controller.h
+	"LinkedList.h"
+
+1635431430 c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\inputs.h
+
+1637924694 c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\parser.h
+	"LinkedList.h"
+
+1637966411 source:c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"peliculas.h"
+
+1637968903 source:c:\users\luclopez\desktop\sp\lopez.lucia.p2.labi.1g\segundo.parcial\peliculas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+
